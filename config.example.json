@@ -1,0 +1,48 @@
+{
+  "enabled": true,
+  "auto_wander_enabled": false,
+  "wander_interval_minutes": 240,
+  "quiet_hours": "01:00-07:00",
+  "seed_keywords": [
+    "COC跑团",
+    "跑团模组",
+    "二次元新番",
+    "单机游戏",
+    "沙雕日常",
+    "AI科技资讯",
+    "AI最新工具",
+    "大语言模型"
+  ],
+  "dynamic_interest_ratio": 0.35,
+  "max_keywords_pool": 30,
+  "trigger_keywords": [
+    ".bili wander",
+    ".bili",
+    "歌伊随机看个视频",
+    "随机看个视频",
+    "随便看个视频",
+    "随机刷个视频",
+    "歌伊随便看个视频",
+    "歌伊刷个视频",
+    "歌伊看个视频",
+    "歌伊去摸鱼",
+    "歌伊摸鱼",
+    "歌伊去刷会儿b站",
+    "歌伊刷b站",
+    "歌伊看b站",
+    "歌伊看视频",
+    "歌伊去刷b站"
+  ],
+  "share_triggers": [
+    "歌伊看看",
+    "歌伊这是什么",
+    "歌伊评评",
+    "歌伊看一下",
+    "歌伊来吐槽"
+  ],
+  "auto_share_video_reply": true,
+  "max_daily_wanders": 12,
+  "bilibili_cookie": "",
+  "web_search_enabled": true,
+  "deepseek_search_api_key": ""
+}

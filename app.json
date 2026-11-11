@@ -1,0 +1,29 @@
+{
+    "name": "歌伊的B站漫游",
+    "author": "歌靡",
+    "namespace": "geyi_bili_wanderer",
+    "info": "歌伊专属附属插件：闲时自主刷B站看视频 / 动态进化兴趣词库 / 见闻融入四层记忆 / 支持主动分享视频互动",
+    "version": "1.0.0",
+    "svn": 1,
+    "compatible_svn": 190,
+    "priority": 8000,
+    "message_mode": "olivos_string",
+    "support": [
+        {
+            "sdk": "onebot",
+            "platform": "qq",
+            "model": "all"
+        },
+        {
+            "sdk": "all",
+            "platform": "all",
+            "model": "all"
+        }
+    ],
+    "menu_config": [
+        {
+            "title": "B站漫游状态",
+            "event": "geyi_bili_wanderer_Menu_001"
+        }
+    ]
+}

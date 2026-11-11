@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# 本地真实配置（含 B 站 Cookie / 搜索 API Key），仓库里只放 config.example.json
+config.json
+config.json.local
+*.local
+.env
+.env.*
+
+# 运行时数据库与日志
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
+*.db
+*.log
+*.bak
+*.tmp
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
